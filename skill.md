@@ -83,13 +83,4 @@ title: "Skills"
 </div>
 </div>
 
-<div class="skill-card">
-<h3> Languages</h3>
-<div class="chips">
-<span class="chip">Bangla (native)</span>
-<span class="chip">English (C1, IELTS 7.5)</span>
-<span class="chip">German (B1)</span>
-</div>
-</div>
-
 </div>
