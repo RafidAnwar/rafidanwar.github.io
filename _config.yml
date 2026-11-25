@@ -9,9 +9,9 @@ email: "rafidanwar@iut-dhaka.edu"
 github: "https://github.com/RafidAnwar"
 linkedin: "https://www.linkedin.com/in/rafid-anwar"
 hero_tags:
+  - "Data Science"
   - "Biomedical AI"
-  - "Explainable AI"
-  - "MLOps"
+  - "ML Solutions"
 hero_on_all_pages: false   # set to true to show photo + name on every page
 
 defaults:
