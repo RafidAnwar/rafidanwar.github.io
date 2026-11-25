@@ -13,6 +13,6 @@ title: "Education"
 
 ## B.Sc. Electrical and Electronic Engineering
 **Islamic University of Technology, Bangladesh (Jan 2016 – Dec 2019)**
-- Final grade: 3,89/4,00 (German equivalent: 1,1)
+- Final grade: 3,89/4,00 (German grade scale: 1,1)
 - Awards: First Class with Honours
 - Courses: Numerical Methods, Control Systems, Power Electronics, Signals and Systems and more. Check transcript for the detailed courses [Transcript](/bsc.pdf)
