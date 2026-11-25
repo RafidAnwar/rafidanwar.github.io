@@ -1,7 +1,5 @@
 # ---------- Theme ----------
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-# Try other skins: default, air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
-minimal_mistakes_skin: "sunrise"
+remote_theme: "Cayman"
 
 # ---------- Site ----------
 title: "ABM Rafid Anwar"
