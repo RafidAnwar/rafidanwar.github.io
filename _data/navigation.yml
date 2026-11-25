@@ -3,6 +3,8 @@ main:
     url: /education/
   - title: "Work Experience"
     url: /work experience/
+  - title: "Skills"
+    url: /skills/
   - title: "Projects"
     url: /projects/
   - title: "Publications"
