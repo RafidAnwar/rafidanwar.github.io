@@ -28,3 +28,46 @@
   .header-inner { flex-direction: column-reverse; text-align: center; }
   .profile-photo { width: 170px; height: 170px; }
 }
+.skills-intro {
+  font-size: 1.15rem;
+  color: #567482;
+  margin-bottom: 1.5rem;
+}
+
+.skill-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.skill-card {
+  background: #fff;
+  border: 1px solid #e3edf0;
+  border-top: 5px solid #159957;   /* Cayman green */
+  border-radius: 12px;
+  padding: 1.2rem 1.4rem 1.4rem;
+  box-shadow: 0 4px 14px rgba(21, 120, 120, 0.10);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.skill-card:nth-child(even) { border-top-color: #155799; }  /* Cayman blue */
+.skill-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(21, 120, 120, 0.20);
+}
+.skill-card h3 {
+  margin: 0 0 0.9rem;
+  color: #157878;
+  font-size: 1.15rem;
+}
+
+.chips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.chip {
+  background: linear-gradient(135deg, #e8f7f1, #e6f0fa);
+  color: #155799;
+  border: 1px solid #cfe5ee;
+  border-radius: 999px;
+  padding: 0.3rem 0.85rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.chip:hover { background: #159957; color: #fff; border-color: #159957; }
