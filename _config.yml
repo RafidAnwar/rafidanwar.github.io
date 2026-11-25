@@ -1,14 +1,10 @@
+theme: jekyll-theme-cayman
+
 title: "ABM Rafid Anwar"
 description: "Biomedical AI · Data Science"
 lang: en-US
 url: "https://rafidanwar.github.io" 
 baseurl: ""
-
-# Profile links (home page icons)a
-email: "rafidanwar@iut-dhaka.edu"
-github: "https://github.com/RafidAnwar"
-linkedin: "https://www.linkedin.com/in/rafid-anwar"
-hero_on_all_pages: false
 
 defaults:
   - scope:
@@ -18,4 +14,3 @@ defaults:
 
 exclude:
   - README.md
-  
