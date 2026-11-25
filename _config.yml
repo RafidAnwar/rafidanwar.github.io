@@ -1,12 +1,12 @@
 # ---------- Theme ----------
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 # Try other skins: default, air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "sunrise"
 
 # ---------- Site ----------
 title: "ABM Rafid Anwar"
 name: "ABM Rafid Anwar"
-description: "Biomedical AI · Explainable AI · MLOps"
+description: "Biomedical AI · Data Science"
 locale: "en-US"
 url: "https://rafidanwar.github.io" 
 baseurl: ""
@@ -17,7 +17,7 @@ words_per_minute: 200
 author:
   name: "ABM Rafid Anwar"
   avatar: "/profile.jpg"
-  bio: "MSc in Information & Communication Engineering (TU Darmstadt). Multimodal deep learning, explainable AI and MLOps for biomedical data."
+  bio: "Data scienctist and AI engineer with MSc in Information & Communication Engineering (TU Darmstadt)."
   location: "Darmstadt, Germany"
   links:
     - label: "Email"
