@@ -8,9 +8,9 @@ title: "ABM Rafid Anwar"
 name: "ABM Rafid Anwar"
 description: "Biomedical AI · Explainable AI · MLOps"
 locale: "en-US"
-url: "https://yourusername.github.io"   # change to your custom domain later
+url: "https://rafidanwar.github.io" 
 baseurl: ""
-repository: "yourusername/yourusername.github.io"
+repository: "rafidanwar/rafidanwar.github.io"
 words_per_minute: 200
 
 # ---------- Sidebar profile ----------
