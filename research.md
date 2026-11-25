@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /research/
-title: "Research Experience"
+permalink: /Work Experience/
+title: "Work Experience"
 ---
 
 ## Master's Thesis Researcher — Multimodal Biomedical Data Analysis
