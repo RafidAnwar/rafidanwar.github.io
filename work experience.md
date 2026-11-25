@@ -12,7 +12,7 @@ title: "Work Experience"
 - Applied uncertainty-quantification-based XAI to assess prediction confidence and model reliability.
 
 ## Research Assistant
-**KISMED Lab, TU Darmstadt** · Sep 2025 – Nov 2025
+**Künstlich Intelligente Systeme der Medizin (KISMED) Lab, TU Darmstadt** · Sep 2025 – Nov 2025
 - Built data acquisition and processing workflows for 600+ behavioural video recordings.
 - Implemented visual feature extraction with OpenCV, YOLO and MediaPipe.
 - Developed a multi-head self-attention transformer: **84.38% accuracy, 83.20% AUC**.
