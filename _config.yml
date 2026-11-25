@@ -1,0 +1,63 @@
+# ---------- Theme ----------
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+# Try other skins: default, air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
+minimal_mistakes_skin: "air"
+
+# ---------- Site ----------
+title: "ABM Rafid Anwar"
+name: "ABM Rafid Anwar"
+description: "Biomedical AI · Explainable AI · MLOps"
+locale: "en-US"
+url: "https://yourusername.github.io"   # change to your custom domain later
+baseurl: ""
+repository: "yourusername/yourusername.github.io"
+words_per_minute: 200
+
+# ---------- Sidebar profile ----------
+author:
+  name: "ABM Rafid Anwar"
+  avatar: "/profile.jpg"
+  bio: "MSc in Information & Communication Engineering (TU Darmstadt). Multimodal deep learning, explainable AI and MLOps for biomedical data."
+  location: "Darmstadt, Germany"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rafidanwar@iut-dhaka.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/RafidAnwar"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rafid-anwar"
+
+# ---------- Footer ----------
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/RafidAnwar"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rafid-anwar"
+
+# ---------- Page defaults ----------
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# ---------- Build ----------
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+include:
+  - _pages
+exclude:
+  - README.md
