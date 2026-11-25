@@ -1,61 +1,16 @@
-# ---------- Theme ----------
-remote_theme: "Cayman"
+theme: jekyll-theme-cayman
 
-# ---------- Site ----------
 title: "ABM Rafid Anwar"
-name: "ABM Rafid Anwar"
 description: "Biomedical AI · Data Science"
-locale: "en-US"
+lang: en-US
 url: "https://rafidanwar.github.io" 
 baseurl: ""
-repository: "rafidanwar/rafidanwar.github.io"
-words_per_minute: 200
 
-# ---------- Sidebar profile ----------
-author:
-  name: "ABM Rafid Anwar"
-  avatar: "/profile.jpg"
-  bio: "Data scienctist and AI engineer with MSc in Information & Communication Engineering (TU Darmstadt)."
-  location: "Darmstadt, Germany"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rafidanwar@iut-dhaka.edu"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/RafidAnwar"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rafid-anwar"
-
-# ---------- Footer ----------
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/RafidAnwar"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rafid-anwar"
-
-# ---------- Page defaults ----------
 defaults:
   - scope:
       path: ""
-      type: pages
     values:
-      layout: single
-      author_profile: true
+      layout: "default"
 
-# ---------- Build ----------
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-gist
-include:
-  - _pages
 exclude:
   - README.md
