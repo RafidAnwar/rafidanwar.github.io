@@ -3,7 +3,7 @@ layout: default
 permalink: /work experience/
 title: "Work Experience"
 ---
-## Research Assistant - Biomedical AI
+## Research Assistant - Biomedical AI ([GitHub link](https://github.com/RafidAnwar/Master_thesis))
 **AI Systems in Medicine Lab, TU Darmstadt** · Sep 2025 – Nov 2025
 
 *(Python, Pandas, OpenCV, YOLO, MediaPipe, Transformer, Power BI)*
@@ -14,7 +14,7 @@ title: "Work Experience"
 - Documented preprocessing, dataset structures, and model workflows to support reproducible experiments.
 - Collaborated with multidisciplinary research teams and communicated analytical findings through Power BI dashboards.
   
-## Master's Thesis Researcher — Multimodal AI
+## Master's Thesis Researcher — Multimodal AI ([GitHub link]([https://github.com/RafidAnwar/Master_thesis](https://github.com/RafidAnwar/Classification-of-ping-pong-point-outcomes-using-player-reaction-videos)))****
 **AI Systems in Medicine Lab, TU Darmstadt** · Apr 2025 – Oct 2025
 
 *(Python, MATLAB, Pandas, OpenCV, MediaPipe, TensorFlow, LSTM, XAI, SHAP)*
