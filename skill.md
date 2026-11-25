@@ -4,8 +4,6 @@ permalink: /skills/
 title: "Skills"
 ---
 
-<p class="skills-intro">Tools and methods I use to turn biomedical and engineering data into reliable, explainable and deployable models.</p>
-
 <div class="skill-grid">
 
 <div class="skill-card">
