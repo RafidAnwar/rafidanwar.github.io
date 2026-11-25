@@ -51,7 +51,7 @@ title: "Skills"
 </div>
 
 <div class="skill-card">
-<h3> Copmuter Vision</h3>
+<h3> Computer Vision</h3>
 <div class="chips">
 <span class="chip">OpenCV</span>
 <span class="chip">YOLO</span>
