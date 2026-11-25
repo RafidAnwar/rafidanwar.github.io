@@ -21,7 +21,7 @@
 
   {% if page.url == '/' or site.hero_on_all_pages %}
   <section class="hero">
-    <img class="profile-photo" src="{{ '/image.jpg' | relative_url }}" alt="{{ site.title }}">
+    <img class="profile-photo" src="{{ '/profile.jpg' | relative_url }}" alt="{{ site.title }}">
     <h1>{{ site.title }}</h1>
     <div class="tags">
       {% for t in site.hero_tags %}
@@ -32,7 +32,6 @@
       <a class="social s-mail" href="mailto:{{ site.email }}" title="Email"><i class="fa-solid fa-envelope"></i></a>
       <a class="social s-linkedin" href="{{ site.linkedin }}" title="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
       <a class="social s-github" href="{{ site.github }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
-      <a class="social s-cv" href="{{ '/CV.pdf' | relative_url }}" title="Download CV"><i class="fa-solid fa-download"></i></a>
     </div>
   </section>
   {% endif %}
