@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /education/
+title: "education"
+---
 ## Education
 
 **M.Sc. Information and Communication Engineering** — Technische Universität Darmstadt, Germany (Oct 2022 – Sep 2026)
