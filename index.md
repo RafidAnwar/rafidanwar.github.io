@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: home
 permalink: /
-title: "Data Scientist"
+title: "Rafid Anwar - Portfolio Website"
 ---
 
+## About
 Data Scientist and AI Engineer with an MSc in Information and Communication Engineering and a 1.0-grade thesis in Biomedical AI. Skilled in developing end-to-end ML solutions, & designing computational experiments, with practical MLOps practices for automating and deploying scalable ML solutions. Passionate about developing data-driven solutions for healthcare applications.
 
