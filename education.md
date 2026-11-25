@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /education/
-title: "education"
+title: "Education"
 ---
 ## Education
 
