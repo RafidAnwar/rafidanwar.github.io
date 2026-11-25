@@ -1,4 +1,4 @@
-title: "Home"
+title: "ABM Rafid Anwar"
 description: "Biomedical AI · Data Science"
 lang: en-US
 url: "https://rafidanwar.github.io"   
@@ -11,6 +11,7 @@ linkedin: "https://www.linkedin.com/in/rafid-anwar"
 hero_tags:
   - "Data Science"
   - "Biomedical AI"
+  - "Computer Vision"
   - "ML Solutions"
 hero_on_all_pages: false   # set to true to show photo + name on every page
 
