@@ -14,7 +14,7 @@ title: "Education"
 <ul>
 <li><strong>Final grade: 2,13 </strong></li> 
 <li><strong>Major:</strong> Communication Algorithms (Data Science &amp; Biomedical AI)</li>
-<li><strong>Thesis:</strong> <em>Enhancing mixed emotion recognition through XAI-enabled deep learning on a biomedical dataset <strong>(Thesis Grade: 1,0)</strong>strong></em></li>
+<li><strong>Thesis:</strong> <em>Enhancing mixed emotion recognition through XAI-enabled deep learning on a biomedical dataset <strong>(Thesis Grade: 1,0)</strong></em></li>
 </ul>
 <div class="edu-label">Selected courses:</div>
 <div class="chips">
@@ -36,7 +36,7 @@ title: "Education"
 <ul>
 <li><strong>Final grade: 3,89/4,00, German Grade Scale: 1,1 </strong></li> 
 <li><strong>Award: </strong> First Class with Honours </li> 
-<li><strong>Thesis:</strong> <em>Theoretical investigation of a GaAs based novel air slot nano-plasmonic coupler. <strong>(Thesis Grade: 1,0)</strong>strong></em></li>
+<li><strong>Thesis:</strong> <em>Theoretical investigation of a GaAs based novel air slot nano-plasmonic coupler. <strong>(Thesis Grade: 1,0)</strong></em></li>
 </ul>  
 <div class="edu-label">Selected courses:</div>
 <div class="chips">
