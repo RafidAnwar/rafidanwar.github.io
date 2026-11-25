@@ -6,6 +6,11 @@ lang: en-US
 url: "https://rafidanwar.github.io" 
 baseurl: ""
 
+# Profile links (home page icons)
+email: "rafidanwar@iut-dhaka.edu"
+github: "https://github.com/RafidAnwar"
+linkedin: "https://www.linkedin.com/in/rafid-anwar"
+
 defaults:
   - scope:
       path: ""
