@@ -14,7 +14,7 @@ title: "Work Experience"
 - Documented preprocessing, dataset structures, and model workflows to support reproducible experiments.
 - Collaborated with multidisciplinary research teams and communicated analytical findings through Power BI dashboards.
   
-## Master's Thesis Researcher — Multimodal AI ([GitHub link]([https://github.com/RafidAnwar/Master_thesis](https://github.com/RafidAnwar/Classification-of-ping-pong-point-outcomes-using-player-reaction-videos)))****
+## Master's Thesis Researcher — Multimodal AI ([GitHub link](https://github.com/RafidAnwar/Master_thesis](https://github.com/RafidAnwar/Classification-of-ping-pong-point-outcomes-using-player-reaction-videos))
 **AI Systems in Medicine Lab, TU Darmstadt** · Apr 2025 – Oct 2025
 
 *(Python, MATLAB, Pandas, OpenCV, MediaPipe, TensorFlow, LSTM, XAI, SHAP)*
