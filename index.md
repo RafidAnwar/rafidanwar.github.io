@@ -1,12 +1,10 @@
 ---
 permalink: /
-title: "Biomedical AI & Explainable Deep Learning"
+title: "Data Scientist"
 ---
 
-I am an MSc graduate in Information and Communication Engineering from TU Darmstadt, with a background in Electrical Engineering. My work focuses on multimodal deep learning for physiological biosignals (EEG, GSR, PPG, video), explainable AI, and reproducible MLOps workflows. I work mainly in Python, with GPU-accelerated experiments on HPC infrastructure.
+Data Scientist and AI Engineer with an MSc in Information and Communication Engineering and a 1.0-grade thesis in Biomedical AI. Skilled in developing end-to-end ML solutions, & designing computational experiments, with practical MLOps practices for automating and deploying scalable ML solutions. Passionate about developing data-driven solutions for healthcare applications.
 
-[Download my CV (PDF)](/CV.pdf){: .btn .btn--primary}
-[Latest project](/projects/){: .btn .btn--inverse}
 
 ## Education
 
