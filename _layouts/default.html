@@ -1,47 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% seo %}
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
-<body class="{% if page.url == '/' %}home{% endif %}">
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="UTF-8">
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <div class="header-inner">
+        <div class="header-text">
+          <h1 class="project-name">{{ site.title }}</h1>
+          <h2 class="project-tagline">{{ site.description }}</h2>
+          <nav class="site-nav">
+            <a class="btn" href="{{ '/' | relative_url }}">Home</a>
+            {% for item in site.data.navigation.main %}
+              <a class="btn" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% endfor %}
+          </nav>
+        </div>
+        <img class="profile-photo" src="{{ '/image.jpg' | relative_url }}" alt="{{ site.title }}">
+      </div>
+    </header>
 
-  <header class="topbar">
-    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    <nav class="topnav">
-      {% for item in site.data.navigation.main %}
-        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
-      {% endfor %}
-    </nav>
-    <span></span>
-  </header>
-
-  {% if page.url == '/' or site.hero_on_all_pages %}
-  <section class="hero">
-    <img class="profile-photo" src="{{ '/image.jpg' | relative_url }}" alt="{{ site.title }}">
-    <h1>{{ site.title }}</h1>
-    <div class="tags">
-      {% for t in site.hero_tags %}
-        <span class="tag tag-{{ forloop.index0 | modulo: 3 }}">{{ t }}</span>
-      {% endfor %}
-    </div>
-    <div class="socials">
-      <a class="social s-mail" href="mailto:{{ site.email }}" title="Email"><i class="fa-solid fa-envelope"></i></a>
-      <a class="social s-linkedin" href="{{ site.linkedin }}" title="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
-      <a class="social s-github" href="{{ site.github }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
-    </div>
-  </section>
-  {% endif %}
-
-  <main class="main-content">
-    {% unless page.url == '/' %}<h1>{{ page.title }}</h1>{% endunless %}
-    {{ content }}
-  </main>
-
-  <footer class="footer">© {{ site.time | date: "%Y" }} {{ site.title }}</footer>
-
-</body>
+    <main id="content" class="main-content" role="main">
+      {% unless page.url == '/' %}<h1>{{ page.title }}</h1>{% endunless %}
+      {{ content }}
+    </main>
+  </body>
 </html>
