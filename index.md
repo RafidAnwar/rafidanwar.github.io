@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 permalink: /
 title: "Rafid Anwar - Portfolio Website"
 ---
