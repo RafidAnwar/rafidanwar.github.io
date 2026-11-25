@@ -61,15 +61,13 @@ title: "Skills"
 </div>
 
 <div class="skill-card">
-<h3> MLOps &amp; Tools</h3>
+<h3> MLOps</h3>
 <div class="chips">
 <span class="chip">Git / GitHub</span>
 <span class="chip">GitHub Actions (CI/CD)</span>
 <span class="chip">Docker</span>
 <span class="chip">Azure</span>
 <span class="chip">MLflow</span>
-<span class="chip">Power BI</span>
-<span class="chip">LaTeX</span>
 </div>
 </div>
 
@@ -80,6 +78,17 @@ title: "Skills"
 <span class="chip">CST Microwave Studio</span>
 <span class="chip">Simulink</span>
 <span class="chip">Proteus Design Suite</span>
+</div>
+</div>
+
+<div class="skill-card">
+<h3> Tools</h3>
+<div class="chips">
+<span class="chip">Power BI</span>
+<span class="chip">LaTeX</span>
+<span class="chip">Microsoft Office</span>
+<span class="chip">Microsoft Teams</span>
+<span class="chip">Trello</span>
 </div>
 </div>
 
