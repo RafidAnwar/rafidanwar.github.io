@@ -25,10 +25,6 @@ Data Scientist and AI Engineer with an MSc in Information and Communication Engi
 - OIC Scholarship — Organisation of Islamic Cooperation
 - HSC Scholarship — Government of Bangladesh
 
-## Certification
-
-- Keras Bootcamp for Image Analysis — OpenCV University (CNNs, transfer learning, object detection, segmentation)
-
 ## Volunteering
 
 - **Esonance Organizer** (2016 – 2019), Bangladesh — coordinated multidisciplinary teams, event logistics and technical operations
