@@ -9,3 +9,5 @@ main:
     url: /publications/
   - title: "Certifications"
     url: /certifications/
+  - title: "Additional Information"
+    url: /additional information/
