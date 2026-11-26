@@ -13,7 +13,7 @@ title: "Projects"
 <h3 class="proj-title">MLOps-Enabled Canine Health Prediction Web App — Dog Aging Project</h3>
 <div class="proj-links">
 <a class="job-link" href="https://github.com/RafidAnwar/dog_aging_project_MLOps_deployment"><i class="fa-brands fa-github"></i> GitHub</a>
-<a class="job-link" href="dap-analytic-avengers.azurewebsites.net"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live app</a>
+<a class="job-link" href="https://dap-analytic-avengers.azurewebsites.net"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live app</a>
 </div>
 <div class="chips">
 <span class="chip">Python</span>
