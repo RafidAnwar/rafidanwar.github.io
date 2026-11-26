@@ -27,6 +27,8 @@ title: "Work Experience"
 <li>Trained a 2-layer, 8-head Self-Attention Transformer for sequential classification, achieving <span class="metric">84.38%</span> accuracy and <span class="metric">83.20%</span> AUC.</li>
 <li>Documented preprocessing, dataset structures, and model workflows to support reproducible experiments.</li>
 <li>Collaborated with multidisciplinary research teams and communicated analytical findings through Power BI dashboards.</li>
+<li>Power BI report snippet:
+![Animation](https://github.com/user-attachments/assets/6bc19f22-f6cc-4ab0-a18d-587a58f75e90) </li>
 </ul>
 </div>
 
