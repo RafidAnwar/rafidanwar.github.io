@@ -25,6 +25,12 @@ title: "Education"
 <span class="chip">Data Science II</span>
 </div>
 <a class="job-link" href="/msc.pdf"><i class="fa-solid fa-file-pdf"></i> Transcript</a>
+
+<div class="edu-media">
+<figure><img src="/msc/msc1.png" alt="Photo 1"><figcaption>Multimodal data.</figcaption></figure>
+<figure><img src="/msc/msc2.jpeg" alt="Photo 2"><figcaption>Video feature extraction.</figcaption></figure>
+</div>
+
 </div>
 
 <div class="job">
