@@ -28,6 +28,10 @@ title: "Work Experience"
 <li>Documented preprocessing, dataset structures, and model workflows to support reproducible experiments.</li>
 <li>Collaborated with multidisciplinary research teams and communicated analytical findings through Power BI dashboards.</li>
 </ul>
+<div class="job-media">
+<figure><img src="/msc/kismed1.png" alt="Photo 1"><figcaption>Annotated videos of players using yolo11 pose estimation.</figcaption></figure>
+<figure><img src="https://github.com/user-attachments/assets/6bc19f22-f6cc-4ab0-a18d-587a58f75e90" alt="Power BI report animation"><figcaption>Power BI report snippet</figcaption></figure>
+</div>
 
 </div>
 
