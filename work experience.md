@@ -29,11 +29,6 @@ title: "Work Experience"
 <li>Collaborated with multidisciplinary research teams and communicated analytical findings through Power BI dashboards.</li>
 </ul>
 
-<div class="job-media">
-<figure><img src="/msc/msc1.png" alt="Photo 1"><figcaption>Multimodal data.</figcaption></figure>
-<figure><img src="/msc/msc2.jpeg" alt="Photo 2"><figcaption>Video feature extraction.</figcaption></figure>
-</div>
-
 </div>
 
 <div class="job">
@@ -61,6 +56,17 @@ title: "Work Experience"
 <li>Achieved <span class="metric">73.02%</span> accuracy and <span class="metric">85.76%</span> AUC and improved model performance by <span class="metric">12.03%</span> over unimodal baselines.</li>
 <li>Applied Uncertainty Quantification based XAI methods to assess prediction confidence and analyze model reliability.</li>
 </ul>
+
+<div class="job-media">
+<figure><img src="/msc/msc1.png" alt="Photo 1"><figcaption>Multimodal data.</figcaption></figure>
+<figure><img src="/msc/msc2.png" alt="Photo 2"><figcaption>Video feature extraction.</figcaption></figure>
+<figure><img src="/msc/msc3.jpg" alt="Photo 2"><figcaption>Model structure.</figcaption></figure>
+<figure><img src="/msc/msc4.png" alt="Photo 2"><figcaption>Multimodal performance comparison.</figcaption></figure>
+<figure><img src="/msc/msc5.png" alt="Photo 2"><figcaption>Performance metrics.</figcaption></figure>
+<figure><img src="/msc/msc8.png" alt="Photo 2"><figcaption>Confusion matrix.</figcaption></figure>
+<figure><img src="/msc/msc6.png" alt="Photo 2"><figcaption>Uncertainty quantification analysis 1.</figcaption></figure>
+<figure><img src="/msc/msc7.png" alt="Photo 2"><figcaption>Uncertainty quantification analysis 2.</figcaption></figure>
+</div>
 </div>
 
 <div class="job">
