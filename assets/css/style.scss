@@ -429,3 +429,43 @@ a:hover { text-decoration: underline; }
 
 .proj-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.4rem; }
 .proj-small .proj-title { font-size: 1.1rem; }
+
+/* ---------- Click-to-enlarge pictures ---------- */
+.job-media img,
+.edu-media img,
+.pub-figures img,
+.proj-media img {
+  cursor: zoom-in;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+.job-media img:hover,
+.edu-media img:hover,
+.pub-figures img:hover,
+.proj-media img:hover { opacity: 0.9; transform: scale(1.02); }
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(5, 10, 12, 0.92);
+  cursor: zoom-out;
+  padding: 1.5rem;
+}
+.lightbox.open { display: flex; }
+.lightbox img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 8px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+}
+.lightbox-close {
+  position: absolute;
+  top: 1rem;
+  right: 1.6rem;
+  font-size: 2.6rem;
+  line-height: 1;
+  color: #fff;
+}
