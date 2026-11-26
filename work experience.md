@@ -29,7 +29,7 @@ title: "Work Experience"
 <li>Collaborated with multidisciplinary research teams and communicated analytical findings through Power BI dashboards.</li>
 </ul>
 <div class="job-media">
-<figure><img src="/msc/kismed1.png" alt="Photo 1"><figcaption>Annotated videos of players using yolo11 pose estimation.</figcaption></figure>
+<figure><img src="/msc/kismed1.png" alt="Photo 1"><figcaption>Annotated screenshot of players using yolo11 pose estimation.</figcaption></figure>
 <figure><img src="https://github.com/user-attachments/assets/6bc19f22-f6cc-4ab0-a18d-587a58f75e90" alt="Power BI report animation"><figcaption>Power BI report snippet</figcaption></figure>
 </div>
 
@@ -108,6 +108,11 @@ title: "Work Experience"
 <li>Designed a novel rectangular GaAs nano-plasmonic coupler with an air-slot waveguide using CST Microwave Studio.</li>
 <li>Optimized the coupler design to achieve <span class="metric">81.07%</span> coupling efficiency at 1.55 μm wavelengths through FIT-based simulations.</li>
 </ul>
+
+<div class="job-media">
+<figure><img src="/msc/bsc1.png" alt="Photo 1"><figcaption>Model structure.</figcaption></figure>
+<figure><img src="/msc/bsc2.png" alt="Photo 1"><figcaption>Electric field distribution.</figcaption></figure>
+</div>
 </div>
 
 </div>
