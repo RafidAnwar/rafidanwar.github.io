@@ -112,6 +112,7 @@ title: "Work Experience"
 <div class="job-media">
 <figure><img src="/msc/bsc1.png" alt="Photo 1"><figcaption>Model structure.</figcaption></figure>
 <figure><img src="/msc/bsc2.png" alt="Photo 1"><figcaption>Electric field distribution.</figcaption></figure>
+<figure><img src="/msc/bsc3.png" alt="Photo 1"><figcaption>Simulation results of different performance parameters, for the coupler having optimum dimensions (a=100nm, b=15nm and h=250nm) with wavelength variation. (a)Transmittance (normalized), (b)reflectance (normalized) and (c)absorbance (normalized).</figcaption></figure>
 </div>
 </div>
 
