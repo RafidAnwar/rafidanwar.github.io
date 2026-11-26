@@ -4,9 +4,9 @@ permalink: /certifications/
 title: "Certifications"
 ---
 
-- **telc Deutsch B1 Zertifikat - telc gGmbH - [Certificate](https://results.telc.net/vb?credential=telc-bcMmFqlmYSJM)**
+- **telc Deutsch B1 Zertifikat - telc GmbH - [Certificate](https://results.telc.net/vb?credential=telc-bcMmFqlmYSJM)**
 
-- **IELTS Academic - IELTS Official - Overall band score 7,5**
+- **IELTS Academic Overall band score 7,5 - British Council - [Certificate](/ielts.pdf)**
 
 - **Python Data Analysis - LinkedInLearning - [Certificate](https://www.linkedin.com/learning/certificates/4d3590af157345f9bf516c61d6a90065e2ddc906ee448aa174e94009760933bf/?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BzGE5T1UqT4%2BetM2HvWAZFQ%3D%3D)**
 
