@@ -43,5 +43,31 @@
 
   <footer class="footer">© {{ site.time | date: "%Y" }} {{ site.title }}</footer>
 
+  <script>
+  (function () {
+    var selector = ".job-media img, .edu-media img, .pub-figures img, .proj-media img";
+    var overlay = document.createElement("div");
+    overlay.className = "lightbox";
+    overlay.innerHTML = '<img alt=""><span class="lightbox-close">&times;</span>';
+    document.body.appendChild(overlay);
+    var big = overlay.querySelector("img");
+  
+    function close() { overlay.classList.remove("open"); }
+  
+    document.addEventListener("click", function (e) {
+      var img = e.target.closest(selector);
+      if (img) {
+        big.src = img.src;
+        big.alt = img.alt;
+        overlay.classList.add("open");
+      }
+    });
+    overlay.addEventListener("click", close);
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") close();
+    });
+  })();
+  </script>
+  
 </body>
 </html>
