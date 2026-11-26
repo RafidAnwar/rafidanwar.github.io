@@ -28,6 +28,12 @@ title: "Work Experience"
 <li>Documented preprocessing, dataset structures, and model workflows to support reproducible experiments.</li>
 <li>Collaborated with multidisciplinary research teams and communicated analytical findings through Power BI dashboards.</li>
 </ul>
+
+<div class="job-media">
+<figure><img src="/msc/msc1.png" alt="Photo 1"><figcaption>Multimodal data.</figcaption></figure>
+<figure><img src="/msc/msc2.jpeg" alt="Photo 2"><figcaption>Video feature extraction.</figcaption></figure>
+</div>
+
 </div>
 
 <div class="job">
