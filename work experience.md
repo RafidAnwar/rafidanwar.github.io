@@ -84,6 +84,10 @@ title: "Work Experience"
 <li>Annotation of scientific papers using INCEpTION for development of the NLP-based RE3 framework.</li>
 <li>Improved data documentation and inter-annotator agreement in a collaborative annotation workflow.</li>
 </ul>
+
+<div class="job-media">
+<figure><img src="/inception.png" alt="Photo 1"><figcaption>Annotation tool in INCEpTION.</figcaption></figure>
+</div>
 </div>
 
 <div class="job">
